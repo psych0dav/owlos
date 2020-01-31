@@ -1,4 +1,5 @@
 #include "MotionDevice.h"
+#include "string.h"
 
 bool MotionDevice::init()
 {
