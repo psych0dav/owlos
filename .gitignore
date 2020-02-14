@@ -33,3 +33,7 @@
 *.ipch
 /.vs/owlos/v16
 /.vs/ReadyIoTSolution/v16
+/.vs/ReadyIoTSolution/v15/Browse.VC.db
+/.vs/owlos/v15/Browse.VC.db
+/.vs/config/applicationhost.config
+/.vs/ReadyIoTSolution/v15/Browse.VC.opendb
