@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/KirinDenis/owlos) 
+
 ![OWLOS в режиме WiFi точки доступа без файлов UI](https://github.com/KirinDenis/owlos/blob/master/OWLOSResource/images/owlos_scheme_WiFIMixedUsage.jpg)
 
 # OWLOS 
